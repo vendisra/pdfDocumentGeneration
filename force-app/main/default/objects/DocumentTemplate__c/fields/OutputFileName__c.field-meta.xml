@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OutputFileName__c</fullName>
+    <label>Output File Name</label>
+    <type>Text</type>
+    <length>255</length>
+    <required>false</required>
+    <externalId>false</externalId>
+    <unique>false</unique>
+    <description>File name pattern for generated PDFs. Supports merge fields like {{QuoteNumber}}</description>
+    <inlineHelpText>Example: Quote_{{QuoteNumber}}_{{Account.Name}} or Invoice_{{TODAY}}</inlineHelpText>
+</CustomField>

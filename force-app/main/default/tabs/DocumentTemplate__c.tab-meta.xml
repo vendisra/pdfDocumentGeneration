@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Document Templates</label>
+    <motif>Custom84: Document</motif>
+    <customObject>true</customObject>
+</CustomTab>

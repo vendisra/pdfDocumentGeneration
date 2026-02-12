@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Document Template</label>
+    <pluralLabel>Document Templates</pluralLabel>
+    <nameField>
+        <label>Template Name</label>
+        <type>Text</type>
+    </nameField>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <sharingModel>ReadWrite</sharingModel>
+    <enableReports>true</enableReports>
+    <enableActivities>false</enableActivities>
+    <enableHistory>true</enableHistory>
+    <enableSearch>true</enableSearch>
+    <description>Defines PDF document templates with Google Doc integration and field parsing.</description>
+</CustomObject>

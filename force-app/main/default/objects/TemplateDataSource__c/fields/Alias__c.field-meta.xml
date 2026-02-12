@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Alias__c</fullName>
+    <description>The alias used to reference this data source in templates. Use {{#Alias}}...{{/Alias}} for repeating data or {{Alias.FieldName}} for single records.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Alias to use in template (e.g., "OpenCases" for {{#OpenCases}} or {{OpenCases.Subject}})</inlineHelpText>
+    <label>Alias</label>
+    <length>40</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

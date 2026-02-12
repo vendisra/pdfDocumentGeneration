@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ParsedFieldsJSON__c</fullName>
+    <label>Parsed Fields JSON</label>
+    <type>LongTextArea</type>
+    <length>131072</length>
+    <visibleLines>5</visibleLines>
+    <description>JSON structure containing all parsed fields from the template. Auto-populated by validation service.</description>
+    <inlineHelpText>This field is automatically populated when you validate the template. Contains all merge fields used in the template.</inlineHelpText>
+</CustomField>

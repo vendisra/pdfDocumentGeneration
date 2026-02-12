@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>FieldList__c</fullName>
+    <description>Comma-separated list of fields to query. Leave blank to auto-detect from template usage. Supports relationship fields (e.g., Owner.Name, Account.BillingCity).</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Fields to query (comma-separated). Leave blank to auto-detect from template.</inlineHelpText>
+    <label>Field List</label>
+    <length>5000</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

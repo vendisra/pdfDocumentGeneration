@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DocumentTemplate__c</fullName>
+    <description>The parent document template this data source belongs to.</description>
+    <externalId>false</externalId>
+    <label>Document Template</label>
+    <referenceTo>DocumentTemplate__c</referenceTo>
+    <relationshipLabel>Data Sources</relationshipLabel>
+    <relationshipName>DataSources</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

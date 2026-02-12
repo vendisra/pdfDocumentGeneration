@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ObjectApiName__c</fullName>
+    <description>The Salesforce object API name to query (e.g., Case, Product2, Custom_Object__c).</description>
+    <externalId>false</externalId>
+    <inlineHelpText>API name of the object to query (e.g., Case, Product2)</inlineHelpText>
+    <label>Object API Name</label>
+    <length>80</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

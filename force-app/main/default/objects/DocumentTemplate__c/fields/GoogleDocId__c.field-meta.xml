@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GoogleDocId__c</fullName>
+    <label>Google Doc ID</label>
+    <type>Text</type>
+    <length>255</length>
+    <required>true</required>
+    <externalId>false</externalId>
+    <unique>false</unique>
+    <description>The Google Doc ID from the template URL</description>
+    <inlineHelpText>Copy the ID from the Google Doc URL: docs.google.com/document/d/[THIS_IS_THE_ID]/edit</inlineHelpText>
+</CustomField>
